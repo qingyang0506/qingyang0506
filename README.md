@@ -1,4 +1,4 @@
-##💫 About Me:
+## 💫 About Me:
 🔭 I’m currently last year student at the University of Auckland<br>👯 I’m greatly interested in Android development<br>🤝 I’m looking for internships and graduate programs<br>🌱 I’m currently learning AI and Machine Learning<br>💬 Ask me about data structure and algorithm<br>⚡ Fun fact I am a positive and funny person
 
 
